@@ -12,21 +12,9 @@
 - [Kontribusi](#kontribusi)
 
 ## Instalasi
-<button onclick="copyToClipboard('git clone https://github.com/wdnchill/Funny-Bash-scripts')">Salin</button>
-<button onclick="copyToClipboard('cd Funny-Bash-scripts')">Salin</button>
-<button onclick="copyToClipboard('sudo chmod +x Music.sh')">Salin</button>
+1. git clone https://github.com/wdnchill/Funny-Bash-scripts'
+2. cd Funny-Bash-scripts
+3. sudo chmod +x Music.sh 
 
-
-<script>
-function copyToClipboard(text) {
-  const textarea = document.createElement('textarea');
-  textarea.value = text;
-  document.body.appendChild(textarea);
-  textarea.select();
-  document.execCommand('copy');
-  document.body.removeChild(textarea);
-  alert('Teks telah disalin ke clipboard!');
-}
-</script>
 
 
