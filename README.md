@@ -2,6 +2,8 @@
 
 [ini adalah kumpulan bash script yang saya buat ]
 
+![](Screenshot from 2023-07-06 16-17-39.png)
+![](Screenshot from 2023-07-06 16-18-28.png)
 ## Daftar Isi
 
 - [Instalasi](#instalasi)
