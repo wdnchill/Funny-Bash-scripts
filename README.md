@@ -2,8 +2,8 @@
 
 [ini adalah kumpulan bash script yang saya buat ]
 
-![](Screenshot from 2023-07-06 16-17-39.png)
-![](Screenshot from 2023-07-06 16-18-28.png)
+(Screenshot from 2023-07-06 16-17-39.png)
+(Screenshot from 2023-07-06 16-18-28.png)
 ## Daftar Isi
 
 - [Instalasi](#instalasi)
@@ -13,9 +13,9 @@
 
 ## Instalasi
 
-[git clone https://github.com/wdnchill/Funny-Bash-scripts]
-[cd funny bash scripts]
-[sudo chmod +x Music.sh]
+1.git clone https://github.com/wdnchill/Funny-Bash-scripts
+2.cd funny bash scripts
+3.sudo chmod +x Music.sh
 
 
 
