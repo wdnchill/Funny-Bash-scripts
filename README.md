@@ -12,9 +12,9 @@
 - [Kontribusi](#kontribusi)
 
 ## Instalasi
-1. git clone https://github.com/wdnchill/Funny-Bash-scripts'
-2. cd Funny-Bash-scripts
-3. sudo chmod +x Music.sh 
+- git clone https://github.com/wdnchill/Funny-Bash-scripts
+- cd Funny-Bash-scripts
+- sudo chmod +x Music.sh 
 
 
 
