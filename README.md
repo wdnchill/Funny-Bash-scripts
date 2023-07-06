@@ -1,4 +1,6 @@
-#Funny-Bash-scripts
+## Funny-Bash-scripts
+
+
 
 ![Music-play](https://github.com/wdnchill/Funny-Bash-scripts/blob/main/Screenshot%20from%202023-07-06%2016-17-39.png)
 
