@@ -19,6 +19,7 @@
 
 - sudo chmod +x ngoding.sh
 - ./ngoding.sh
+- berlaku di semua file yanng ingin di jalankan
 
 
 
